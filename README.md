@@ -45,6 +45,15 @@ C:\"Program Files"\MongoDB\Server\3.4\bin\mongod --dbpath .\data\db --directoryp
 ```
 > Relativo a la ruta de nuestra base de datos.
 
+Ejecutrar 
+```
+> run npm init
+```
+
+Ejecutar nodemon para tener acceso desde el explorador
+```
+> nodemon
+```
 
 ## Desglose del programa
 
